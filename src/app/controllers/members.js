@@ -1,4 +1,4 @@
-const { age, date } = require('../../lib/utils')
+const { age, date, bloodType } = require('../../lib/utils')
 const Member = require('../models/Member')
 const Intl = require('intl')
 
@@ -61,6 +61,7 @@ module.exports = {
             if(!member) return res.send("Member not found!")
 
             member.birth = date(member.birth).birthDay
+            member.blood = bloodType(member.blood)
 
             return res.render("members/show", { member })
         })
