@@ -4,6 +4,7 @@ const Intl = require('intl')
 
 module.exports = {
     index(req, res){
+        
         let { filter, page, limit } = req.query
 
         page = page || 1
@@ -21,7 +22,19 @@ module.exports = {
                     total: Math.ceil(instructors[0].total / limit),
                     page
                 }
-                return res.render("instructors/index", {instructors, pagination, filter})
+
+                let instructorAll = instructors.map(instructor => {
+                    const services = instructor.services.split(",")
+
+                    const instructorServices = {
+                        ...instructor,
+                        services: services
+                    }
+
+                    return instructorServices
+                })
+                
+                return res.render("instructors/index", {instructors: instructorAll, pagination, filter})
 
             }
         }
