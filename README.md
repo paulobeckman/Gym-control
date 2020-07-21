@@ -66,21 +66,21 @@ Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
 	
  <img alt="Gym-control" title="#Gym-control" src="./github-assets/projeto5.gif" width="800px">
 
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas1.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/pagina1.png" width="400px">
 
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas2.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/pagina2.png" width="400px">
   
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas3.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/pagina3.png" width="400px">
   
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas4.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/pagina4.png" width="400px">
 
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas5.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/pagina5.png" width="400px">
 
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas6.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/pagina6.png" width="400px">
 
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas7.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/pagina7.png" width="400px">
 
-  <img alt="Gym-control" title="#Gym-control" src="./github-assets/paginas8.png" width="400px">
+  <img alt="Gym-control" title="#Gym-control" src="./github-assets/pagina8.png" width="400px">
   
 </p>
 
