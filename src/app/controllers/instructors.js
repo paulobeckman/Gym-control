@@ -72,6 +72,7 @@ module.exports = {
 
             instructor.created_at = date(instructor.created_at).format
 
+            console.log(instructor)
             return res.render("instructors/show", { instructor })
         })
     },
